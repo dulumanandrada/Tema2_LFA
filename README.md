@@ -15,7 +15,7 @@ Observatii:
   - grupele finale sunt cele ce contin o stare finala.
   
   ## Modele de DFA-minimal:
- 
-<img width="411" alt="Captură de ecran din 2022-04-03 la 01 30 05" src="https://user-images.githubusercontent.com/94484148/161403398-d8045259-f6b6-4e27-b25c-5086535d049a.png">
 
-<img  width="411" alt="ex1" src= "https://user-images.githubusercontent.com/94484148/170030156-ae9a8010-8f94-4f16-b801-456ffbb65bb1.png">
+<img width="988" alt="Captură de ecran din 2022-05-24 la 15 05 43" src="https://user-images.githubusercontent.com/94484148/170030659-ab54e690-bf3c-44af-96da-f4b7aaa19866.png">
+
+<img width="579" alt="Captură de ecran din 2022-05-24 la 15 05 58" src="https://user-images.githubusercontent.com/94484148/170030721-3f4a6fe9-2b68-4941-975b-02be6265ac77.png">
