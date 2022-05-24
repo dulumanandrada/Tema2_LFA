@@ -18,4 +18,4 @@ Observatii:
  
 <img width="411" alt="Captură de ecran din 2022-04-03 la 01 30 05" src="https://user-images.githubusercontent.com/94484148/161403398-d8045259-f6b6-4e27-b25c-5086535d049a.png">
 
-![IMG_0756](https://user-images.githubusercontent.com/94484148/170030156-ae9a8010-8f94-4f16-b801-456ffbb65bb1.png)
+<img  width="411" alt="ex1" src= "https://user-images.githubusercontent.com/94484148/170030156-ae9a8010-8f94-4f16-b801-456ffbb65bb1.png">
