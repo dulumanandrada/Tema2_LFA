@@ -18,6 +18,6 @@ Observatii:
  
 <img width="411" alt="Captură de ecran din 2022-04-03 la 01 30 05" src="https://user-images.githubusercontent.com/94484148/161403398-d8045259-f6b6-4e27-b25c-5086535d049a.png">
 
-![IMG_0756](https://user-images.githubusercontent.com/94484148/170029838-0e3c4876-f7f2-45b1-9d02-3193bbceebce.jpg)
+<img width="411" alt="Captură de ecran din 2022-04-03 la 01 30 05" src="https://user-images.githubusercontent.com/94484148/170029838-0e3c4876-f7f2-45b1-9d02-3193bbceebce.jpg">
 
-![IMG_0755](https://user-images.githubusercontent.com/94484148/170029889-5e3a4fe2-9984-4105-889b-a2386b443eb8.jpg)
+<img width="411" alt="Captură de ecran din 2022-04-03 la 01 30 05" src="https://user-images.githubusercontent.com/94484148/170029889-5e3a4fe2-9984-4105-889b-a2386b443eb8.jpg">
