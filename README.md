@@ -1,7 +1,7 @@
 # Tema2_LFA
 DFA-minimal
 
-Un algoritm care are ca input un DFA si face transformarea acestuia paa intr-o forma minimala a sa. Aceste are la baza Teorema lui Myhill-Nerode.
+Un algoritm care are ca input un DFA si face transformarea acestuia pana intr-o forma minimala a sa. Aceste are la baza Teorema lui Myhill-Nerode.
 Teorie: https://www.geeksforgeeks.org/minimization-of-dfa-using-myhill-nerode-theorem/?ref=rp
 
 Cum functioneaza?
